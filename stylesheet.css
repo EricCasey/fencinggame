@@ -1,0 +1,52 @@
+div.gamearea {
+	width: 360px;
+	height: 100%;
+		margin: auto;
+}
+
+div.game {
+	border: dotted;
+	width: 358px;
+	height: 570px;
+	margin: auto;
+	background-image: url("images/levels/background1.png")
+}
+
+h2.attack {
+	text-align: center;
+	margin: 8px;
+}
+
+div.hibutton {
+	height: 100px;
+	width: 170px;
+	padding-left: auto;
+	padding-right: auto;
+	border: dotted;
+	float:right;
+	margin-top:8px;
+	text-align:center;
+font-size: 40px;
+}
+
+div.lobutton {
+		height: 100px;
+	width: 170px;
+	padding-left: auto;
+	padding-right: auto;
+	border: dotted;
+	float:left;
+	margin-top:8px;
+	text-align:center;
+	font-size: 40px;
+}
+p {
+	color: blue;
+	
+}
+canvas { 
+	padding-left: auto;
+	padding-right: auto;
+	
+}
+
